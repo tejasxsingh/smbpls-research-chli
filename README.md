@@ -15,7 +15,7 @@ The following example installs the package from GitHub directly into a google co
 ```bash
 # install package from GitHub
 ! pip uninstall smbpls # uninstall first just to ensure you're getting in newest version
-! pip install --no-cache-dir git+https://github.com/CompBio-Lab/smbpls_2026.git
+! pip install --no-cache-dir git+https://github.com/tejasxsingh/smbpls-research-chli.git
 ```
 
 # Example usage
