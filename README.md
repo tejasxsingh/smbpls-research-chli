@@ -4,7 +4,7 @@ Sparse Multi-Block Partial Least Squares (**sMBPLS**) for multi-modal datasets s
 
 This package learns shared latent components across multiple modalities (e.g. RNA, ATAC, protein) while enforcing sparsity on feature loadings.
 
-The GitHub repository is **`smbpls_2026`**, but the Python package you import is **`smbpls`**.
+The GitHub repository is **`smbpls-research-chli`**, but the Python package you import is **`smbpls`**.
 
 ---
 
